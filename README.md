@@ -37,10 +37,10 @@ My more personal inspiration comes from the need I saw for families from the Afr
 My google search box 
 
 ## Next Steps 💁🏾‍♀️
-> Research West African languages and create a database of basic conversational phrases for each language
-  > https://africa.berkeley.edu/language-study : Berkley lists Amharic, Igbo, Chichewa and Kiswahili
-  > Round down the languages to just a handful or less. 
-> get emojis and establish a color theme for each language: perhaps tribal patterns can be in the background!
-> establish a trademark!
-> Create a React native app version of the Plantain website>> Establish a unique name for the application - * 
+- Research West African languages and create a database of basic conversational phrases for each language
+- https://africa.berkeley.edu/language-study : Berkley lists Amharic, Igbo, Chichewa and Kiswahili
+    - Round down the languages to just a handful or less. 
+- get emojis and establish a color theme for each language: perhaps tribal patterns can be in the background!
+- establish a trademark!
+- Create a React native app version of the Plantain website>> Establish a unique name for the application - * 
 
