@@ -14,3 +14,7 @@ The other inspiration is the ever increasing connectedness and globalization tak
 My more personal inspiration comes from the need I saw for families from the African continent who are not able to pass on their heritage and cultures as fully due to the language barrier with their offspring.
 
 ## Next Steps 💁🏾‍♀️
+>> Research West African languages and create a database of basic conversational phrases
+>> get emojis and establish a color theme for each language: perhaps tribal patterns can be in the background!
+>> establish a trademark!
+
