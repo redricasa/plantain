@@ -20,7 +20,9 @@ My more personal inspiration comes from the need I saw for families from the Afr
     - a lack of materials for non-European language speakers to get a translation, 
     - a lack of platforms able to match learners to teachers
 - Solutions for each problem: 
-- Existing Alternatives: One of the top alternatives include-  Transparent Language. Dialogue-Africa. 
+- Existing Alternatives:
+    - [Transparent Language](https://www.transparent.com/) 
+    - [Dialogue-Africa](https://www.dialogue-africa.com/) 
 - Key metrics: 
 - Unique Value Proposition:
      Other than literally being the only business offering a central point for African languages, Redricasa offers a quality                application that has the language materials and UX/UI that's basic in the market.
@@ -31,6 +33,8 @@ My more personal inspiration comes from the need I saw for families from the Afr
 - Early Adopters:
 - Cost Structure fixed/variable:
 - Revenue Streams: Plantain* website/ React Native app
+## Minimum Viable Product:
+My google search box 
 
 ## Next Steps 💁🏾‍♀️
 > Research West African languages and create a database of basic conversational phrases for each language
