@@ -14,33 +14,41 @@ The other inspiration is the ever increasing connectedness and globalization tak
 My more personal inspiration comes from the need I saw for families from the African continent who are not able to pass on their heritage and cultures as fully due to the language barrier with their offspring. Plantain is one of the stapel starchy plants of many west African cuisines- thus the inspiration for the name of the app. 
 ## Business Model/ The Lean Canvas: 
 - Problems: 
-    - lack of websites to teach popular African languages, 
-    - lack of apps that are engaging for children and young adults, 
-    - lack of structured language learning accessible for the public, 
-    - a lack of materials for non-European language speakers to get a translation, 
-    - a lack of platforms able to match learners to teachers
+    - lack of African Language learning apps that are engaging for children and young adults, 
+    - a lack of materials for non-Romance language speakers to get a translation into African languages, 
+    - a lack of platforms able to match African Language learners to African Language teachers
 - Solutions for each problem: 
+    - I'll build platforms that will be engaging for a younger audience. The platforms will be colorful and have representational           images that cusotmers will be able to identify with. 
+    - The platform I'll build will eventually cater to non-Romance language speakers aiming to learn African Languages
+    - The platform will also enable individualized tutorial sessions by utilizing qualified language teachers who'll be matched to          individuals electing a more intensive and personalized route.
+    
 - Existing Alternatives:
     - [Transparent Language](https://www.transparent.com/) 
     - [Dialogue-Africa](https://www.dialogue-africa.com/) 
-- Key metrics: 
+- Key metrics: Revenue amounts enough to live a comfortable life and later establish a big company
 - Unique Value Proposition:
-     Other than literally being the only business offering a central point for African languages, Redricasa offers a quality                application that has the language materials and UX/UI that's basic in the market.
+     Other than literally being the only business offering a central point for African languages, Redricasa offers a quality                application that has the language materials and UX/UI that's basic in the market. The platform will rival Duolingo in offering  
+     non-Romantic language education. Language 
 - High Level Concept: Plantain* is the black version of DuoLingo
-- Unfair Advantage:
-- Channels:
-- Customer Segments:
-- Early Adopters:
-- Cost Structure fixed/variable:
-- Revenue Streams: Plantain* website/ React Native app
+- Unfair Advantage: I have a skill of learning languages. I'm fluent in Amharic(read/write/speak). 
+- Channels: YouTube [Linguistic Colors](https://www.youtube.com/channel/UCyEdoYpPzR8wcyV7owwbpAg?view_as=subscriber) and [Sam Bliss](https://www.youtube.com/channel/UCQYF796GfX3paMASMsRDGIg/videos)
+- Customer Segments: African diaspora with a close or distant heritage link in North America, Europe and the Middle East. Buissness         personelle intersted in expanding to the African continent for business expansion. Those interested in intercultural exchange. 
+- Early Adopters: none as of yet
+- Cost Structure: 
+    - fixed: My time
+    - variable: Cost for courses/coaching to take to build the business
+- Revenue Streams: website, Mobile application, individual and group tutorials, PDF lesson sales, Course sales through host sites, Patreon, Merchendise sales on etsy
 ## Minimum Viable Product:
-My google search box 
+My google search box- PDF's of basic Amharic lessons sent out to paying customers every week 
 
 ## Next Steps 💁🏾‍♀️
 - Research West African languages and create a database of basic conversational phrases for each language
 - https://africa.berkeley.edu/language-study : Berkley lists Amharic, Igbo, Chichewa and Kiswahili
     - Round down the languages to just a handful or less. 
 - get emojis and establish a color theme for each language: perhaps tribal patterns can be in the background!
-- establish a trademark!
-- Create a React native app version of the Plantain website>> Establish a unique name for the application - * 
+- establish a trademark through Firm for the culture! 
+- Create a React native app version of the Plantain website - [glide apps](https://www.glideapps.com/)
+- Establish a unique name for the application - * 
+- fundraise!
+- build a team 
 
