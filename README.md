@@ -1,17 +1,17 @@
 # Plantain
 African Diaspora languages by Redricasa LLC
 ## How to use the application 👌🏾👌
-The Plantain app is designed to make learning African tribal languages easy and fun.
-## Link to full stack Plantain app: 
+The Plantain app is designed to make learning African tribal languages easy and fun. Much like Duolingo, a popular language learning app, Plantain is designed to have a well designed mobile-first application with a beautiful user experience and easy to navigate design.
+## Link to full stack Plantain app: Coming soon!
 ## Overview 👋🏾👋
-There's a growing demand for more knowledge of heritage and DNA information from the African diaspora. There's also a real need in the same community for emotional and psychological respite and healing that travelling to mojority black nations brings. 
-The African diaspora has been reaching back to their mother Africa and West Africa is welcoming them back. There's a vast untapped potential in the African diaspora to transform Sub Saharan Africa.  
-Redricasa LLC is an organization created to ease the pain points that come with the migration of the African diaspora back to Africa by teaching the diaspora their mother tongues. 
+There's a growing demand for more knowledge of heritage and DNA information from the African diaspora. There's also a real need in the same community for emotional and psychological respite and healing that travelling to majority black nations brings. 
+The African diaspora has been reaching back to their mother Africa and West Africa is welcoming them back. There's a vast untapped potential in the African diaspora to transform Sub Saharan Africa to be able to compete in the global stage.  
+Redricasa LLC is an organization created to ease the pain points that come with the migration of the African diaspora back to Africa by teaching the African diaspora their mother tongues. 
 
 ## Inspiration 🌹
-The inspiration for the Plantain app are many. One of the inspirations is the [Year of Return](https://www.yearofreturn.com/)-2019 where the African diaspora were called to visit Ghana in the year 2019. 
-The other inspiration is the ever increasing connectedness and globalization taking place due to the utilization of technologies and increased interest of people groups about different cultures and ways of being.
-My more personal inspiration comes from the need I saw for families from the African continent who are not able to pass on their heritage and cultures as fully due to the language barrier with their offspring. Plantain is one of the stapel starchy plants of many west African cuisines- thus the inspiration for the name of the app. 
+The inspiration for the Plantain app are many. One of the inspirations is the [Year of Return](https://www.yearofreturn.com/) where the African diaspora were called to visit Ghana in the year of 2019 which marks the 400th year since the first ships left West Africa for the Americas. 
+My more personal inspiration comes from the need I saw for families from the African continent, who are not able to pass on their heritage and cultures as fully due to the language barrier with their offspring. Plantain is one of the stapel starchy plants of many west African cuisines- thus the inspiration for the name of the app.
+
 ## Business Model/ The Lean Canvas: 
 - Problems: 
     - lack of African Language learning apps that are engaging for children and young adults, 
@@ -39,16 +39,19 @@ My more personal inspiration comes from the need I saw for families from the Afr
     - variable: Cost for courses/coaching to take to build the business
 - Revenue Streams: website, Mobile application, individual and group tutorials, PDF lesson sales, Course sales through host sites, Patreon, Merchendise sales on etsy
 ## Minimum Viable Product:
-My google search box- PDF's of basic Amharic lessons sent out to paying customers every week 
+My google search box- PDF's of basic Amharic lessons sent out to paying customers every week.
 
 ## Next Steps 💁🏾‍♀️
 - Research West African languages and create a database of basic conversational phrases for each language
-- https://africa.berkeley.edu/language-study : Berkley lists Amharic, Igbo, Chichewa and Kiswahili
+    - https://africa.berkeley.edu/language-study : Berkley lists Amharic, Igbo, Chichewa and Kiswahili
     - Round down the languages to just a handful or less. 
 - get emojis and establish a color theme for each language: perhaps tribal patterns can be in the background!
-- establish a trademark through Firm for the culture! 
+- establish a trademark through Firm For the Culture! 
 - Create a React native app version of the Plantain website - [glide apps](https://www.glideapps.com/)
 - Establish a unique name for the application - * 
 - fundraise!
 - build a team 
+- Market research
+    - Survey potential customers
+- Create freebies and establish a mailing list
 
