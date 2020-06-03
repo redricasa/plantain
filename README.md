@@ -9,7 +9,7 @@ The African diaspora has been reaching back to their mother Africa and West Afri
 Redricasa LLC is an organization created to ease the pain points that come with the migration of the African diaspora back to Africa by teaching the diaspora their mother tongues. 
 
 ## Inspiration 🌹
-The inspiration for the Plantain app are many. One of the inspirations is the year of return 2019 where the African diaspora were called to visit Ghana in the year 2019. 
+The inspiration for the Plantain app are many. One of the inspirations is the [Year of Return](https://www.yearofreturn.com/)-2019 where the African diaspora were called to visit Ghana in the year 2019. 
 The other inspiration is the ever increasing connectedness and globalization taking place due to the utilization of technologies and increased interest of people groups about different cultures and ways of being.
 My more personal inspiration comes from the need I saw for families from the African continent who are not able to pass on their heritage and cultures as fully due to the language barrier with their offspring. Plantain is one of the stapel starchy plants of many west African cuisines- thus the inspiration for the name of the app. 
 ## Business Model/ The Lean Canvas: 
