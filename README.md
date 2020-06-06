@@ -2,7 +2,7 @@
 African Diaspora languages by Redricasa LLC
 ## How to use the application 👌🏾👌
 The Plantain app is designed to make learning African tribal languages easy and fun. Much like Duolingo, a popular language learning app, Plantain is designed to have a well designed mobile-first application with a beautiful user experience and easy to navigate design.
-## Link to full stack Plantain app: Coming soon!
+## Link to full stack Plantain* app:  https://redricasa.github.io/plantain/
 ## Overview 👋🏾👋
 There's a growing demand for more knowledge of heritage and DNA information from the African diaspora. There's also a real need in the same community for emotional and psychological respite and healing that travelling to majority black nations brings. 
 The African diaspora has been reaching back to their mother Africa and West Africa is welcoming them back. There's a vast untapped potential in the African diaspora to transform Sub Saharan Africa to be able to compete in the global stage.  
